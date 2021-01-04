@@ -9902,19 +9902,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Julius\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julius\\work-repos\\ktp-web\\backEnd(test2)\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "/var/www/knowthepro/TodoApi/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Julius\\work-repos\\ktp-web\\backEnd(test2)\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\Julius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julius\\work-repos\\ktp-web\\backEnd(test2)\\TodoApi\\obj\\",
+      "projectPath": "/var/www/knowthepro/TodoApi/TodoApi.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/var/www/knowthepro/TodoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Julius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -10009,7 +10009,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
