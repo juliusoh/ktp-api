@@ -11,11 +11,11 @@ namespace CompanyApi.Models
         }
 
         public CompanyContext() {
-          
+
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL("server=localhost;port=3306;user=root;password=roflrofl;database=knowthepro");
+            optionsBuilder.UseMySQL("server=localhost;user=ktp-admin;password=!4AdeAde;database=knowthepro");
 
 
 

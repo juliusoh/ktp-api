@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
@@ -5,4 +6,13 @@
       "/root/.nuget/packages"
     ]
   }
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Julius\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Julius\\.nuget\\packages"
+    ]
+  }
+>>>>>>> f070199f3aa5c513b60f9dc9fedee96eef9b8b4b
 }
