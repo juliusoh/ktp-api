@@ -53,7 +53,12 @@ namespace CompanyApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            else
+
+            }
+             else
+            {
+            app.UseExceptionHandler("/Error");
+            app.UseHsts();
             }
             app.UseCors(options => options.AllowAnyOrigin());
             app.UseHttpsRedirection();
